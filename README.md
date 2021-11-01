@@ -43,6 +43,7 @@
 * [Calligra Suite](https://github.com/KDE/calligra.git) KDE团队开发的办公软件
 * [Tableau Log Viewer](https://github.com/tableau/tableau-log-viewer.git) 日志查看器
 * [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser.git)
+* [15 Minute Apps](https://github.com/pythonguis/15-minute-apps.git)
 
 ## **Ui资源**
 * [Material Design Lite](https://github.com/google/material-design-lite.git)
@@ -74,3 +75,4 @@
 * [QtSASS](https://github.com/spyder-ide/qtsass.git) Qt SASS语法支持
 * [codelf](https://github.com/unbug/codelf.git) 变量命名神器
 * [Awesome Qt](https://github.com/JesseTG/awesome-qt.git) Qt项目合集
+* [ImageMagick](https://github.com/ImageMagick/ImageMagick.git)
