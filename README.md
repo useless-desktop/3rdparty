@@ -1,4 +1,4 @@
-# <center>**很棒的开发工具**</center>  
+# <center>**很棒的开发工具**</center>
 
 ## **Qt 扩展库**
 
@@ -23,17 +23,19 @@
 
 * [QtCef](https://github.com/hiitiger/QtCef.git) 集成 CEF 和 Qt
 * [QDarkStyleSheet](https://github.com/ColinDuquesnoy/QDarkStyleSheet.git) Qt样式表
-* [QXlsx](https://github.com/QtExcel/QXlsx.git) 
+* [QXlsx](https://github.com/QtExcel/QXlsx.git) QtExcel
 
 * [Qhull](https://github.com/qhull/qhull.git) 几何图形算法库
 
-## **Qt项目**  
+## **Qt项目**
 
 * [Telegram Desktop](https://github.com/telegramdesktop/tdesktop.git) 电报聊天应用程序
 * [ICQ](https://github.com/mail-ru-im/im-desktop.git) ICQ桌面客户端
 
 * [Clementine Music Player](https://github.com/clementine-player/Clementine.git) 音乐播放器
 * [Flameshot](https://github.com/flameshot-org/flameshot.git) 截图软件
+* [qtkeychain](https://github.com/frankosterfeld/qtkeychain.git) 密钥管理工具
+
 * [像素鸟](https://github.com/FelgoSDK/FlappyBird.git) 基于QML制作的游戏
 * [CQtDeployer](https://github.com/QuasarApp/CQtDeployer.git) 打包发布工具
 
@@ -46,10 +48,12 @@
 * [15 Minute Apps](https://github.com/pythonguis/15-minute-apps.git)
 
 ## **Ui资源**
+
 * [Material Design Lite](https://github.com/google/material-design-lite.git)
 * [Noto Fonts](https://github.com/googlefonts/noto-fonts.git)
 
 ## **C++扩展库**
+
 * [Magic Enum C++](https://github.com/Neargye/magic_enum.git) 静态反射
 * [webview](https://github.com/webview/webview.git) 小型的跨平台网络视图库
 * [litehtml](https://github.com/litehtml/litehtml) 轻量级的HTML渲染引擎
@@ -64,7 +68,7 @@
 * [QmlBook](https://github.com/qmlbook/qmlbook.git)
 * [微软C++帮助文档](https://github.com/MicrosoftDocs/cpp-docs.git)
 * [ZMQ Guide](https://github.com/booksbyus/zguide.git) ZMQ指南
-* [stack overflow](https://github.com/eyllanesc/stackoverflow.git) 
+* [stack overflow](https://github.com/eyllanesc/stackoverflow.git)
 
 ## **其它项目**
 
